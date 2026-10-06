@@ -1,0 +1,3 @@
+- [x] Add About, Work, Skills, and Contact sections in the existing portfolio style.
+- [x] Connect smooth-scroll navigation and accessible scroll-reveal effects.
+- [x] Verify desktop and mobile layouts and preview health.
